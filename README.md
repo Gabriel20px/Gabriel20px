@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Gabriel Soares, tenho 17 anos, sou estudante de programação, nas linguagens HTML, CSS, Python, JavaScript, React e TypeScript. estudo programação a mais de 6 meses e tenho dominio em HTML, CSS, Python e algoritmos.</p>
+<p align="left">Me chamo Gabriel Soares, tenho 18 anos, sou estudante de programação, nas linguagens HTML, CSS, Python, JavaScript, React e TypeScript. estudo programação a mais de 1 ano e tenho dominio em HTML, CSS, Python e algoritmos.</p>
 
 ###
 
